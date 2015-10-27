@@ -1608,7 +1608,7 @@
                             <name>Free disk space is less than 5% on volume {#FSNAME}</name>
                             <url/>
                             <status>0</status>
-                            <priority>2</priority>
+                            <priority>3</priority>
                             <description/>
                             <type>0</type>
                         </trigger_prototype>
@@ -1617,7 +1617,7 @@
                             <name>Free disk space is less than 10% on volume {#FSNAME}</name>
                             <url/>
                             <status>0</status>
-                            <priority>2</priority>
+                            <priority>3</priority>
                             <description/>
                             <type>0</type>
                         </trigger_prototype>
